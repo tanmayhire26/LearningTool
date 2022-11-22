@@ -1,0 +1,14 @@
+{
+	"student": [
+		{ "name": "Instructions", "path": "instructions" },
+		{ "name": "Learning", "path": "learning" },
+		{ "name": "Tasks", "path": "tasks" },
+		{ "name": "Tests", "path": "tests" },
+		{ "name": "Performance", "path": "performance" }
+	],
+	"learning": [
+		{ "name": "Phase 1", "path": "ph1" },
+		{ "name": "Phase 2", "path": "ph2" },
+		{ "name": "Phase 3", "path": "ph3" }
+	]
+}
